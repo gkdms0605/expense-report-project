@@ -95,6 +95,7 @@ input[type="number"] {
  /* 소비내역 작성하기 start */
 .add-item {
   margin: 0px 20px;
+  height: auto;
 }
 
 button.add-item-button {
